@@ -1,8 +1,6 @@
 # 8enterprise
 
 Study materials and useful links for PESU students.
-Pesu Notes
-Pesu Materials
 
 ## Live site
 
@@ -10,6 +8,8 @@ Pesu Materials
 
 ## What is in this repo
 
+- PES Notes
+- PES materials
 - Subject materials
 - Guides
 - Other useful links
