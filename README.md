@@ -1,6 +1,8 @@
 # 8enterprise
 
 Study materials and useful links for PESU students.
+Pesu Notes
+Pesu Materials
 
 ## Live site
 
