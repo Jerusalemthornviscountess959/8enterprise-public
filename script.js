@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
     const repoUrl = 'https://github.com/8figalltimepro/8enterprise-public';
-    const popupSeenKey = 'repo-popup-seen';
     const popupHideKey = 'repo-popup-hide';
 
     document.body.addEventListener('mousemove', e => {
@@ -68,26 +67,20 @@ document.addEventListener('DOMContentLoaded', function () {
             return;
         }
 
-        if (sessionStorage.getItem(popupSeenKey) === 'yes') {
-            return;
-        }
-
-        sessionStorage.setItem(popupSeenKey, 'yes');
-
         const box = document.createElement('div');
         box.className = 'repo-popup-overlay';
         box.innerHTML = `
             <div class="repo-popup" role="dialog" aria-modal="true" aria-labelledby="repo-popup-title">
                 <button class="repo-popup-close" type="button" aria-label="Close popup">×</button>
-                <div class="repo-popup-tag">8enterprise</div>
-                <h2 id="repo-popup-title">If this helped you, please star the repo.</h2>
+                <div class="repo-popup-tag"><span class="repo-popup-tag-dot"></span>Support 8enterprise</div>
+                <h2 id="repo-popup-title">Found this useful?</h2>
                 <p>
-                    This site was made to help students save time and stress.
-                    If it made your journey a little easier, a GitHub star would really mean a lot.
+                    If this site saved you time, please consider starring the repo on GitHub.
+                    It helps more students find the project and supports the work behind it.
                 </p>
                 <div class="repo-popup-actions">
-                    <a class="repo-popup-star" href="${repoUrl}" target="_blank" rel="noreferrer">Star on GitHub</a>
-                    <button class="repo-popup-later" type="button">Close</button>
+                    <a class="repo-popup-star" href="${repoUrl}" target="_blank" rel="noreferrer">Star the repo</a>
+                    <button class="repo-popup-later" type="button">Maybe later</button>
                 </div>
                 <button class="repo-popup-never" type="button">Never show me again</button>
             </div>
